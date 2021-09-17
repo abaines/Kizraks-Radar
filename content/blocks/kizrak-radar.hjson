@@ -13,9 +13,9 @@ consumes: {
 }
 
 requirements: [
-    copper/90
-    lead/50
-    silicon/50
+   copper/90
+   lead/50
+   silicon/50
 ]
 category: logic
 research: micro-processor
