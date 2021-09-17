@@ -1,0 +1,15 @@
+type: LogicBlock
+name: "Kizrak's Radar"
+description: So much Radar
+details: See everything.
+size: 3
+health: 160
+
+requirements: [
+    copper/90
+    lead/50
+    silicon/50
+]
+category: logic
+research: micro-processor
+

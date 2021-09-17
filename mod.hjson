@@ -1,0 +1,6 @@
+name: "kizrak-radar"
+displayName: "Kizrak's Radar" //what displays in the mod selection menu
+author: "Kizrak"
+description: "Adds very large radius processor based radar."
+version: "1.0"
+minGameVersion: "112"
