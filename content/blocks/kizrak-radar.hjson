@@ -5,6 +5,13 @@ details: See everything.
 size: 3
 health: 160
 
+consumes: {
+   liquid: {
+      liquid: water
+      amount: 0.1
+   }
+}
+
 requirements: [
     copper/90
     lead/50
