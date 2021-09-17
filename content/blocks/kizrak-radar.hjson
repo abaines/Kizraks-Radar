@@ -13,3 +13,7 @@ requirements: [
 category: logic
 research: micro-processor
 
+range: 16384
+
+instructionsPerTick: 0
+
