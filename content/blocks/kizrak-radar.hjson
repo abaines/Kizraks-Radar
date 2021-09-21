@@ -25,5 +25,5 @@ research: micro-processor
 // this is equal to 2048 blocks
 range: 16384
 
-instructionsPerTick: 0
+instructionsPerTick: 1
 
