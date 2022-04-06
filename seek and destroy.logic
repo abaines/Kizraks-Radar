@@ -1,0 +1,11 @@
+radar enemy any any distance radar1 1 result
+set bad 1
+jump 6 notEqual result null
+radar player any any distance radar1 1 result
+set result @this
+set bad 0
+sensor x result @x
+sensor y result @y
+ubind @flare
+ucontrol approach x y 13 0 0
+ucontrol targetp result bad 13 0 0
