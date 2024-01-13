@@ -1,0 +1,18 @@
+type: radar
+name: "Kizrak's Radar"
+description: So much Radar!
+details: See everything.
+size: 3
+health: 160
+
+requirements: [
+   beryllium/90
+   silicon/50
+]
+research: silicon-arc-furnace
+
+category: logic
+
+fogRadius: 9001
+
+
